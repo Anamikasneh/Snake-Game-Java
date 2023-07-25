@@ -1,5 +1,4 @@
 ## SNAKE GAME USING JAVA
-
 <div align="center">
   <img width="400" alt="Game Preview" src="preview.gif?raw=true">
 </div>
@@ -21,4 +20,5 @@
 ```
 java -jar snake.jar
 ```
+
 
