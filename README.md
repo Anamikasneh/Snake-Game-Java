@@ -1,6 +1,6 @@
 ## SNAKE GAME USING JAVA
 <div align="center">
-  <img width="400" alt="Game Preview" src="https://github.com/renanpvaz/java-snake/raw/master/preview.gif?raw=true">
+  <img width="400" alt="Game Preview" src="https:"C:\Users\Anamika\Desktop\snake">
 </div>
 
 <br>
