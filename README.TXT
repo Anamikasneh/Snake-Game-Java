@@ -1,4 +1,3 @@
-# Snake Game Using Java
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
