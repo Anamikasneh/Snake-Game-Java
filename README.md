@@ -1,5 +1,2 @@
-## TODO-LIST-JAVASCRIPT
+## SNAKE GAME USING JAVA
 
-A Simple To-Do List using vanilla JavaScript
-
-![Demo Gif](https://github.com/sreenivasanramesh/todo-list-javascript/blob/master/demo.gif)
