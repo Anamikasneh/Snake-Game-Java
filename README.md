@@ -1,25 +1,2 @@
 ## SNAKE GAME USING JAVA
-<div align="center">
-  <img width="400" alt="Game Preview" src="C:\Users\Anamika\Desktop\snake">
-</div>
-
-<br>
-
-<div align="center">
-  Simple Snake game made for a college assignment using Java.
-  https://github.com/renanpvaz/java-snake/blob/master/preview.gif?raw=true
-</div>
-
-## Running
-
-1. In case you don't have it already, download and install the [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
-
-2. Download the .jar file from the latest [release]C:\Users\Anamika\Desktop\snake.
-
-3. Inside the folder where the downloaded .jar is run:
-
-```
-java -jar snake.jar
-```
-
-
+![preview](https://github.com/Anamikasneh/Snake-Game-Java/assets/104364714/8bc8cd4c-58c2-49b5-b5e9-de838182d049)
