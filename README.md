@@ -7,6 +7,7 @@
 
 <div align="center">
   Simple Snake game made for a college assignment using Java.
+  https://github.com/renanpvaz/java-snake/blob/master/preview.gif?raw=true
 </div>
 
 ## Running
